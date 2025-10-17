@@ -19,10 +19,10 @@ projetos_excel/
 
 ## Tecnologias Utilizadas
 
-- **Microsoft Excel 2019 ou superior**: ferramenta principal de análise e visualização  
-- **Power Query**: tratamento e transformação dos dados  
-- **Tabelas Dinâmicas**: cálculo e estruturação de indicadores  
-- **Gráficos e Segmentadores**: construção da interface visual do dashboard  
+- **Microsoft Excel 2019 ou superior**: ferramenta principal de análise e visualização.  
+- **Power Query**: tratamento e transformação dos dados.  
+- **Tabelas Dinâmicas**: cálculo e estruturação de indicadores.  
+- **Gráficos e Segmentadores**: construção da interface visual do dashboard.  
 
 ---
 
@@ -40,9 +40,9 @@ projetos_excel/
 - **Planilha “Dashboard”** → painel final com gráficos e indicadores de desempenho.
 
 **Principais Indicadores Apresentados**
-- Faturamento total de vendas de planos anuais, contendo todas as asssinaturas agregadas
-- Faturamento total de vendas de planos anuais, separado por auto "renovação" e não "não auto renovação"
-- Faturamento total de vendas de assinaturas do Minecraft Season Pass
+- Faturamento total de vendas de planos anuais, contendo todas as asssinaturas agregadas.
+- Faturamento total de vendas de planos anuais, separado por auto "renovação" e não "não auto renovação".
+- Faturamento total de vendas de assinaturas do Minecraft Season Pass.
 
 ---
 
@@ -61,6 +61,7 @@ projetos_excel/
 1. Baixe os arquivos `base.xlsx` e `dashboard_finalizado.xlsx`.  
 2. Abra no **Microsoft Excel**.  
 3. Caso deseje reconstruir o dashboard do zero:
+   - Abra o documento finalizado para ser usado como modelo (`dashboard_finalizado.xlsx`).
    - Importe a base de dados (`base.xlsx`) no **Power Query**.  
    - Crie tabelas dinâmicas para consolidar as métricas.  
    - Insira gráficos e segmentadores de dados para interação.  
