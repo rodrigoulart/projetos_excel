@@ -8,10 +8,11 @@ Os desafios têm como foco a **organização, tratamento e visualização de dad
 ## Estrutura do Repositório
 ```text
 
-projetos_excel/
+projetos_dashboard_xbox/
 ├── base.xlsx           #Documento base para elaboração do projet
-├── dashboard_xbox.xlsx #Dashboard finalizado com análises e gráficos
-└── README.md
+└──  dashboard_xbox.xlsx #Dashboard finalizado com análises e gráficos
+
+README.md
 
 ```
 
