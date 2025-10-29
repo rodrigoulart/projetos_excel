@@ -10,7 +10,7 @@ Os desafios têm como foco a **organização, tratamento e visualização de dad
 
 projetos_dashboard_xbox/
 ├── base.xlsx           #Documento base para elaboração do projet
-└──  dashboard_xbox.xlsx #Dashboard finalizado com análises e gráficos
+└── dashboard_xbox.xlsx #Dashboard finalizado com análises e gráficos
 
 README.md
 
